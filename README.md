@@ -100,7 +100,7 @@
 <a href = "https://www.linkedin.com/in/om-kundu-b4b593162/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:omkundu167@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://omkundu.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1Dm_11OAITVilYEKw85qzHEtKqktMy98x/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
 </p>
                                                                                                                        
