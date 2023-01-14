@@ -29,7 +29,7 @@
 
 - 🔭 Know more about me **[Portfolio](https://omkundu.github.io/)**
 
-- 👨‍🎓 Check out my **[Om_Kundu_Resume.pdf](https://drive.google.com/drive/u/0/my-drive)**
+- 👨‍🎓 Check out my **[Om_Kundu_Resume.pdf](https://drive.google.com/file/d/1Dm_11OAITVilYEKw85qzHEtKqktMy98x/view?usp=share_link)**
 
 
 
